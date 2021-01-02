@@ -1,0 +1,26 @@
+{
+  "name": "chat-app-signup",
+  "version": "1.0.0",
+  "description": "chat app with signup and signin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderMukas/chat-app-signup.git"
+  },
+  "keywords": [
+    "express",
+    "passport",
+    "nunjucks",
+    "nodejs",
+    "socket.io"
+  ],
+  "author": "alexandermukas@yahoo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderMukas/chat-app-signup/issues"
+  },
+  "homepage": "https://github.com/AlexanderMukas/chat-app-signup#readme"
+}
