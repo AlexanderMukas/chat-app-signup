@@ -4,7 +4,7 @@
   "description": "chat app with signup and signin",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "devStart": "node index.js"
   },
   "repository": {
     "type": "git",
